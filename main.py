@@ -7,7 +7,7 @@ print_start_info(__file__)
 ############################## START CODE HERE ###############################
 ##############################################################################
 
-# new comment
+# attempt resolve a already closed issue
 #### NOTE: CHANGE INTERPRETER TO VIRTUAL ENVIRONMENT (or ipynb kernel) PLEASE!!! ###
 
 
