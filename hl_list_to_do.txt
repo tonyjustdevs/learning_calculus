@@ -2,7 +2,22 @@ ch1.6A work-through (pp. 41-51: inv fns & logs)
 ch1.6B exercises 1-84 (pp. 51-53: inv fns & logs)
 ch1. practice exercises (pp. 54-56: addn & adv exs)
 ch1. advanced exercises (pp. 57-58: addn & adv exs)
+test high-level 1 issue (bracket comment)
+#to test
+- [ ] 
 
+[conclusion 1]: 
+- resolve # in commits of hl-description -> will automcailly closes hl-issue
+
+[test 2]:
+- resolve # some but not all.
+
+[test 2] create hl-issues, issues, branch, commit, push, pull, merge, close 
+1. create hl-issue (and tasks - [ ]) via vsc extensions
+2. create branch
+3. fetch branch
+4. checkout branch
+5. commit #resolve, push, pull-request, merge, close
 
 
 
