@@ -7,8 +7,12 @@ print_start_info(__file__)
 ############################## START CODE HERE ###############################
 ##############################################################################
 
-# attempt resolve a already closed issue
-#### NOTE: CHANGE INTERPRETER TO VIRTUAL ENVIRONMENT (or ipynb kernel) PLEASE!!! ###
+#TODO [#35 One-to-One Functions]  [#34/calculus]
+#TODO [#36 Inverse Functions]  [#34/calculus]
+#TODO [#37 Find Inverses]  [#34/calculus]
+#TODO [#38 Logarithmic Functions]  [#34/calculus]
+#TODO [#39 Properties of Logarithms]  [#34/calculus]
+#TODO [#40 Applications]  [#34/calculus]
 
 
 
