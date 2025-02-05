@@ -1,2 +1,5 @@
 .env
 tony_*
+.python-version
+pyproject.toml
+README.md
